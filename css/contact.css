@@ -1,0 +1,91 @@
+.logo img{
+    float:left;
+    width: 150px;
+    height: auto;
+    padding-left: 50px;
+    padding-top: 50px;
+}
+.name{
+    background-image: url(../images/image\ 2.jfif);
+    background-size:cover;
+    background-repeat: no-repeat;
+    height:130vh;
+    background-position: repeat;
+    background-position-x: repeat;
+}
+.navbar{
+  
+    float:right;
+    margin-top: 25px;
+
+    padding-right:25px;
+    
+  
+  }
+  .navbar_item{
+    display: inline-block;
+  }
+ h1{
+     margin-top: 0;
+     text-align: center;
+     color:darkred;
+ }
+  form{
+    padding-top:10px;
+  margin:0 auto;
+  width:450px;
+  border-style: groove;
+  border-color: black;
+  background-color: black;
+  color:white;
+  
+  }
+  .contact{
+    font-size: x-large;
+    padding-top: 25px;
+    color:orangered;
+    text-align: center;
+    padding-right: 25px;;
+}
+
+  label span{
+      display:inline-block;
+      text-align: left;
+      width:120px;
+  }
+  label abbr,p abbr{
+      color:red;
+  }
+  p{
+      color:white
+  }
+  input,textarea{
+font: sans-serif;
+width:250px;
+box-sizing: border-box;
+border:1px solid;
+  }
+  textarea{
+      vertical-align: top;
+      resize: vertical;
+      width:300px;
+  }
+  #Qualification{
+  
+  width:450px;
+  box-sizing: border-box;
+  margin-left:0px;
+  border:1px solid;
+  }
+  
+  .block{
+    display: block;
+    width: 100%;
+    border: none;
+    border-radius: 2px;
+    background-color:darkgreen;
+    padding: 14px 28px;
+    font-size: 16px;
+    cursor: pointer;
+    
+  }

@@ -1,0 +1,64 @@
+.title2{
+    color:red;
+    font-size: x-large;
+    
+    text-align:center;
+    padding-right:75px;
+    padding-top:25px;
+}
+
+.name{
+    background-image: url(../images/two\ color.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height:100vh;
+    background-position: center;
+}
+.logo img{
+    float:left;
+    width: 150px;
+    height: auto;
+    padding-left: 50px;
+    padding-top: 50px;
+}
+#main{
+    font-size: medium;
+    color:teal;
+    text-align:left;
+    padding-right:50px;
+    padding-top:25px;
+
+    
+}
+.navbar{
+  
+    float:right;
+    margin-top: 25px;
+
+    padding-right:25px;
+    
+  
+  }
+  .navbar_item{
+    display: inline-block;
+  }
+#first{
+    font-size: x-large;
+    color:navy;
+    text-align: center;
+    padding-right: 250px;
+    padding-top:100px;
+    padding-bottom: 10px;
+    padding-left:15px;
+    float:left;
+}
+#text{
+    font-size: x-large;
+    color:navy;
+    text-align: center;
+    padding-right: 250px;
+    padding-top:100px;
+    float:right;
+}
+
+
