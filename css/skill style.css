@@ -10,7 +10,7 @@
 .name{
     background-image: url(../images/image\ 2.jfif);
     background-size: cover;
-    background-repeat: no-repeat;
+    background-repeat: repeat;
     height:100vh;
     background-position: center;
 }
@@ -46,10 +46,10 @@
     font-size: x-large;
     color:navy;
     text-align: center;
-    padding-right: 250px;
-    padding-top:250px;
+    padding-right: 300px;
+    padding-top:200px;
     padding-bottom: 10px;
-    padding-left:15px;
+    padding-left:25px;
     float:left;
 
 }
@@ -57,7 +57,7 @@
     font-size: x-large;
     color:navy;
    /* text-align: center;*/
-    padding-right: 100px;
+    padding-right: 250px;
     padding-top:250px;
     float:right;
     

@@ -8,8 +8,8 @@
 .name{
     background-image: url(../images/image\ 2.jfif);
     background-size:cover;
-    background-repeat: no-repeat;
-    height:130vh;
+    background-repeat: repeat;
+    height:150vh;
     background-position: repeat;
     background-position-x: repeat;
 }
