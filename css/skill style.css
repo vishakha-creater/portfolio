@@ -8,7 +8,7 @@
 }
 
 .name{
-    background-image: url(../images/two\ color.jpg);
+    background-image: url(../images/image\ 2.jfif);
     background-size: cover;
     background-repeat: no-repeat;
     height:100vh;
@@ -47,18 +47,20 @@
     color:navy;
     text-align: center;
     padding-right: 250px;
-    padding-top:100px;
+    padding-top:250px;
     padding-bottom: 10px;
     padding-left:15px;
     float:left;
+
 }
 #text{
     font-size: x-large;
     color:navy;
-    text-align: center;
-    padding-right: 250px;
-    padding-top:100px;
+   /* text-align: center;*/
+    padding-right: 100px;
+    padding-top:250px;
     float:right;
+    
 }
 
 
