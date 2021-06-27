@@ -6,11 +6,16 @@
     padding-top: 50px;
 }
 .name{
-    background-image: url(../images/image\ 2.jfif);
+    background-image: url(../images/two\ color.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     height:100vh;
     background-position: center;
+
+}
+.navbar_item a:hover{
+  background-color:lawngreen;
+border-radius: 30px;
 
 }
 
@@ -18,10 +23,13 @@
   
     float:right;
     margin-top: 25px;
-
+font-size: large;
     padding-right:25px;
     
   
+  }
+  .navbar_item a{
+    color:teal;
   }
   .navbar_item{
     display: inline-block;
@@ -29,7 +37,7 @@
   h1{
     text-align: center;
       padding-top:150px;
-      padding-right: 75px;
+      padding-right: 45px;
       color:indigo;
 
       font-size: xx-large;
@@ -39,13 +47,13 @@
       font-size: x-large;
       color:firebrick;
     position: absolute;
-    top: 60%;
+    top: 40%;
     left: 50%;
     transform: translate(-50%,-50%);
 }
 .main{
   text-align: center;
   font-size: x-large;
-  padding-top: 100px;
+  padding-top: 50px;
 
 }

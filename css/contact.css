@@ -6,24 +6,34 @@
     padding-top: 50px;
 }
 .name{
-    background-image: url(../images/image\ 2.jfif);
+    background-image: url(../images/two\ color.jpg);
     background-size:cover;
-    background-repeat: repeat;
+    background-repeat:repeat;
+  
     height:150vh;
-    background-position: repeat;
-    background-position-x: repeat;
+    background-position:repeat;
+   
 }
 .navbar{
   
     float:right;
     margin-top: 25px;
-
+font-size: large;
     padding-right:25px;
     
   
   }
+  
   .navbar_item{
     display: inline-block;
+  }
+  .navbar_item a{
+    color:teal;
+  }
+  .navbar_item a:hover{
+    background-color:lawngreen;
+  border-radius: 30px;
+  
   }
  h1{
      margin-top: 0;
@@ -80,12 +90,14 @@ border:1px solid;
   
   .block{
     display: block;
-    width: 100%;
-    border: none;
-    border-radius: 2px;
+    width: 75%;
+   
+   border-radius: 1px;
     background-color:darkgreen;
+    border-style: groove;
     padding: 14px 28px;
-    font-size: 16px;
+    font-size: 18px;
+    color:ivory;
     cursor: pointer;
-    
+    margin-left: 50px;
   }

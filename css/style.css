@@ -1,35 +1,55 @@
 
 .header{
- background-image: url(../images/image\ 2.jfif);
+ background-image: url(../images/two\ color.jpg);
 background-repeat: repeat;
-  height:110vh;
+  height:140vh;
   background-size: cover;
   background-position:center;
+  
 }
+img{
+  margin-left:auto;
+  margin-right:auto;
+  
+  height:250px;
+  width:250px;
+  border-radius:600px;
 
+}
 .navbar{
   
   float:right;
   margin-top: 25px;
   padding-right: 25px;
+  font-size: large;
+
 
 }
 .navbar_item{
   display: inline-block;
+  color:orangered;
 }
+.navbar_item a{
+  color:teal;
+}
+.navbar_item a:hover{
+  background-color:lawngreen;
+border-radius: 30px;
 
+}
 .logo img{
             float:left;
             width: 150px;
             height: auto;
             padding-left: 50px;
             padding-top: 50px;
+            
 }
 .title{
     color:darkblue;
     font-size: x-large;
     text-align: center;
-    padding-top: 200px;
+    padding-top: 100px;
 }
 .metadata
 {
@@ -48,8 +68,9 @@ ul{
   font-size: x-large;
 }
 #intro{
-  color:darkred;
+  color:black;
   font-size: x-large;
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 .social{
   font-size: x-large;
@@ -59,3 +80,4 @@ ul{
   padding-left:120px;
   
 }
+
