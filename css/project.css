@@ -14,7 +14,7 @@
 
 }
 .navbar_item a:hover{
-  background-color:lawngreen;
+  background-color:green;
 border-radius: 30px;
 
 }
@@ -29,7 +29,7 @@ font-size: large;
   
   }
   .navbar_item a{
-    color:teal;
+    color:black;
   }
   .navbar_item{
     display: inline-block;

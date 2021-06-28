@@ -15,15 +15,15 @@
     background-position: center;
 }
 .logo img{
-    float:left;
-    width: 150px;
-    height: auto;
-    padding-left: 50px;
-    padding-top: 50px;
+  float:left;
+  width: 150px;
+  height: auto;
+  padding-left: 50px;
+  padding-top: 50px;
 }
 #main{
     font-size: medium;
-    color:teal;
+    color:black;
     text-align:left;
     padding-right:50px;
     padding-top:25px;
@@ -43,10 +43,10 @@ font-size: large;
     display: inline-block;
   }
   .navbar_item a{
-    color:teal;
+    color:black;
   }
   .navbar_item a:hover{
-    background-color:lawngreen;
+    background-color:green;
   border-radius: 30px;
   
   }
