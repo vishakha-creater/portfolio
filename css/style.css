@@ -2,7 +2,7 @@
 .header{
  background-image: url(../images/two\ color.jpg);
 background-repeat: repeat;
-  height:100vh;
+  height:100%;
   background-size: cover;
   background-position:center;
   
