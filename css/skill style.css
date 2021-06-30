@@ -11,8 +11,8 @@
     background-image: url(../images/two\ color2.jpg);
     background-size: cover;
     background-repeat: repeat;
-    height:140vh;
-    width:200%;
+    height:100vh;
+    width:100%;
     background-position: center;
 }
 .logo img{
