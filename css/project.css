@@ -6,10 +6,10 @@
     padding-top: 50px;
 }
 .name{
-    background-image: url(../images/two\ color.jpg);
+    background-image: url(../images/two\ color2.jpg);
     background-size: cover;
-    background-repeat: no-repeat;
-    height:100vh;
+    background-repeat: repeat;
+    height:120vh;
     background-position: center;
 
 }

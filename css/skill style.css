@@ -8,10 +8,11 @@
 }
 
 .name{
-    background-image: url(../images/two\ color.jpg);
+    background-image: url(../images/two\ color2.jpg);
     background-size: cover;
     background-repeat: repeat;
-    height:100vh;
+    height:140vh;
+    width:200%;
     background-position: center;
 }
 .logo img{
